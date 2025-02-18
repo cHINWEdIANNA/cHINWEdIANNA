@@ -20,7 +20,7 @@ I'm a Computing Information Systems student at Saint Mary's University with a pa
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cHINWEdIANNA&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cHINWEdIANNA&layout=compact&theme=radical)
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChinweduIwuji-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chinwedu-iwuji/)
 [![Email](https://img.shields.io/badge/Email-iwujidiana@gmail.com-red?style=flat-square&logo=gmail)](mailto:iwujidiana@gmail.com)
