@@ -1,7 +1,7 @@
 # Hi there, I'm Diana! 👋
 
 ### 🌟 About Me
-I'm a Computing Information Systems student at Saint Mary's University with a passion for **cybersecurity, technology, and innovation**. As a board member at SMUSA and Betstamp, I love engaging with communities and making an impact. I'm also an aspiring **cybersecurity analyst** and a startup founder.
+I'm a Computing Information Systems student at Saint Mary's University with a passion for **cybersecurity, technology, and innovation**. As a board member at SMUSA, I love engaging with communities and making an impact. I'm also an aspiring **cybersecurity analyst** and a startup founder.
 
 ### 💡 What I'm Working On
 - 📌 **Cybersecurity & Tech Projects**
@@ -22,5 +22,5 @@ I'm a Computing Information Systems student at Saint Mary's University with a pa
 ![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diana-Iwuji&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DianaIwuji-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/diana-iwuji/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChinweduIwuji-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chinwedu-iwuji/)
 [![Email](https://img.shields.io/badge/Email-iwujidiana@gmail.com-red?style=flat-square&logo=gmail)](mailto:iwujidiana@gmail.com)
