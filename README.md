@@ -19,7 +19,7 @@ I'm a Computing Information Systems student at Saint Mary's University with a pa
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ### 📈 GitHub Stats
-![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diana-Iwuji&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cHINWEdIANNA&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ChinweduIwuji-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chinwedu-iwuji/)
